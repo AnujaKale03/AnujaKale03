@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnujaKale03
-- 👀 I’m interested in Web Developmwnt
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Java
   
 
